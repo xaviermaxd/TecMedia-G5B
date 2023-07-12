@@ -1,40 +1,49 @@
 {
     "publicacions": [
-        {
-          "publicacionid": 54,
-          "titulo": "Estrategias para 5to ciclo",
-          "categoria": "Experiencias estudiantiles",
-          "contenido": "hacer tareas",
-          "url": "tareas.com",
-          "email": "vane@gmail.com",
-          "fecha_pub": "2023-07-12 00:38:02.266797"
-      },
-      {
-          "publicacionid": 55,
-          "titulo": "Esta es unfr",
-          "categoria": "Recursos académicos",
-          "contenido": "eef",
-          "url": "deder",
-          "email": "benji@tecsup.edu.pe",
-          "fecha_pub": "2023-07-12 00:45:53.718284"
-      },
-      {
-          "publicacionid": 56,
-          "titulo": "este es un api",
-          "categoria": "Recomendaciones",
-          "contenido": "dfdf",
-          "url": "df",
-          "email": "benji@tecsup.edu.pe",
-          "fecha_pub": "2023-07-12 00:46:07.269435"
-      },
+{
+        "publicacionid": 106,
+        "titulo": "Aprende a decir NO. Tu trabajo no es gratis.",
+        "categoria": "Experiencias estudiantiles",
+        "contenido": "Pero ojo, nadie tiene que enterarse de que disfrutas en tu trabajo. Es una profesión y eso significa que hay que cobrar por ella. Seguro que tienes un amiguete mecánico o camarero y no te van a hacer ningún trabajo gratis ¿verdad? pues aplícate el cuento y no permitas que te vacilen diciéndote que eres un crack .",
+        "url": "https://es.linkedin.com/pulse/10-consejos-para-estudiantes-de-informática-sistemas-josep-ros",
+        "email": "yerly.aysa@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 18:06:34.082695"
+    },
     {
-        "publicacionid": 57,
-        "titulo": "No seas dormilon",
-        "categoria": "Consejos de estudio",
-        "contenido": "toma mucha agua, aqui te dejo un link\\ndonde encontraras mas tips de estudio chicos :D\\n",
-        "url": "https://www.uax.com/blog/tips-para-estudiar-concentrarse-y-memorizar-mejor",
-        "email": "benji@tecsup.edu.pe",
-        "fecha_pub": "2023-07-12 00:47:20.733076"
+        "publicacionid": 110,
+        "titulo": "Mi experiencia en el 4to ciclo de estudios en TECSUP: Crecimiento y aprendizaje continuo",
+        "categoria": "Experiencias estudiantiles",
+        "contenido": "Destaco la diversidad de cursos y asignaturas que abordé durante este ciclo, profundizando en áreas específicas de mi carrera.",
+        "url": "https://www.tecsup.edu.pe/programas-academicos/cursos-y-programas-de-extension",
+        "email": "luis.islachin@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 18:21:21.772168"
+    },
+    {
+        "publicacionid": 113,
+        "titulo": "Aprende a gestionar los tiempos",
+        "categoria": "Apoyo y consejos para exámenes",
+        "contenido": "Los especialistas en temas de orientación vocacional aconsejan fijar un tiempo de estudio de 90 minutos diarios, que pueden dividirse en dos sesiones de 45 cada una. No se recomienda mayor un tiempo porque está demostrado que el postulante pierde la concentración.",
+        "url": "https://www.carreras.pe/blog/noticias/15-consejos-para-rendir-con-exito-un-examen-de-admision",
+        "email": "treyci.perez@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 18:24:58.691140"
+    },
+    {
+        "publicacionid": 114,
+        "titulo": "¿Qué es CSS y para qué sirve?",
+        "categoria": "Recursos académicos",
+        "contenido": "Hace algunos años cualquier cambio en un proyecto web tenía que hacerse de forma manual, lo que representaba un gran esfuerzo y tiempo. ",
+        "url": "https://www.nextu.com/blog/que-es-css-rc22/",
+        "email": "yerly.aysa@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 18:25:13.304836"
+    },
+    {
+        "publicacionid": 115,
+        "titulo": "Recursos para estudios en el extranjero",
+        "categoria": "Idiomas y estudios internacionales",
+        "contenido": "Estudiar en el extranjero es una experiencia enriquecedora que puede brindarte muchas oportunidades de crecimiento personal, académico y profesional",
+        "url": "https://www.becasparalatinos.com/becas-internacionales-en-canada-2020-2021-2/",
+        "email": "vanessa@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 18:39:22.532348"
     }
     ]
 }
