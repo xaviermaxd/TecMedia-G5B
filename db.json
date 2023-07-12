@@ -1,0 +1,40 @@
+{
+    "publicacions": [
+        {
+          "publicacionid": 54,
+          "titulo": "Estrategias para 5to ciclo",
+          "categoria": "Experiencias estudiantiles",
+          "contenido": "hacer tareas",
+          "url": "tareas.com",
+          "email": "vane@gmail.com",
+          "fecha_pub": "2023-07-12 00:38:02.266797"
+      },
+      {
+          "publicacionid": 55,
+          "titulo": "Esta es unfr",
+          "categoria": "Recursos académicos",
+          "contenido": "eef",
+          "url": "deder",
+          "email": "benji@tecsup.edu.pe",
+          "fecha_pub": "2023-07-12 00:45:53.718284"
+      },
+      {
+          "publicacionid": 56,
+          "titulo": "este es un api",
+          "categoria": "Recomendaciones",
+          "contenido": "dfdf",
+          "url": "df",
+          "email": "benji@tecsup.edu.pe",
+          "fecha_pub": "2023-07-12 00:46:07.269435"
+      },
+    {
+        "publicacionid": 57,
+        "titulo": "No seas dormilon",
+        "categoria": "Consejos de estudio",
+        "contenido": "toma mucha agua, aqui te dejo un link\\ndonde encontraras mas tips de estudio chicos :D\\n",
+        "url": "https://www.uax.com/blog/tips-para-estudiar-concentrarse-y-memorizar-mejor",
+        "email": "benji@tecsup.edu.pe",
+        "fecha_pub": "2023-07-12 00:47:20.733076"
+    }
+    ]
+}
